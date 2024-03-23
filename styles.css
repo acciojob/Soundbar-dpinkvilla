@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+section{
+	background-color:#A164DF;
+	width:600px;
+	height:100px;
+	display:flex;
+	justify-content:space-evenly;
+}
+
+.btn{
+	height:40px;
+	margin-top:30px;
+	border-radius:10px;
+	background-color: #663399; 
+	color:white;
+}
